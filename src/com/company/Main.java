@@ -85,6 +85,5 @@ public class Main {
             }
         }
         System.out.println("Спасибо за игру!");
-
    }
 }
